@@ -1,1 +1,5 @@
 bin/
+.classpath
+.project
+RCsolver.nxd
+RCsolver.nxj
